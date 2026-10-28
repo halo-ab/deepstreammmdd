@@ -1,0 +1,6 @@
+{
+  "name": "deepstream-project-d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DeepStream live sports streaming with universal proxy"
+}
