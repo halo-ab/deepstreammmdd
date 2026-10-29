@@ -35,9 +35,9 @@ let networkRetries = 0;
 
 /* ── M3U Sources ── */
 const M3U_SOURCES = [
-  "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
+  
   "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/main/fancode2.m3u",
-  "https://raw.githubusercontent.com/halo-ab/Matches-playlist-/refs/heads/main/Playlist.m3u"
+ 
 ];
 const REFRESH_MS = 5 * 60 * 1000;   // 5 minutes
 
